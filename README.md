@@ -7,8 +7,8 @@ Free WebCounter like Own Service PHP Script
 
 Get it from:
 
-http://webcounter.eti.pw
+https://webcounter.eti.pw
 
-or click on the button: 'Clone'
+or click on the button: 'Code'
 
 www.ETI.pw
