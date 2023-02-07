@@ -9,6 +9,8 @@ Get it from:
 
 https://webcounter.eti.pw
 
+https://hitcounter.eti.pw
+
 or click on the button: 'Code'
 
 www.ETI.pw
